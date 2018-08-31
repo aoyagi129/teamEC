@@ -1,5 +1,6 @@
 # teamEC_myProduct
 
+チーム製作（tabicale）
 －担当－
 
 ・管理者商品追加機能
